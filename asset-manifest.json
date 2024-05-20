@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.fd6d7ee2.js",
-    "index.html": "/index.html",
-    "main.fd6d7ee2.js.map": "/static/js/main.fd6d7ee2.js.map"
+    "main.js": "/pdistolfo/pdistolfo.github.io/static/js/main.974184ec.js",
+    "index.html": "/pdistolfo/pdistolfo.github.io/index.html",
+    "main.974184ec.js.map": "/pdistolfo/pdistolfo.github.io/static/js/main.974184ec.js.map"
   },
   "entrypoints": [
-    "static/js/main.fd6d7ee2.js"
+    "static/js/main.974184ec.js"
   ]
 }
